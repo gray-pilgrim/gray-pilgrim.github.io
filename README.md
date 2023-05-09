@@ -1,3 +1,3 @@
 # gray-pilgrim.github.io
 issues resolved
-website deployed
+\n website deployed
