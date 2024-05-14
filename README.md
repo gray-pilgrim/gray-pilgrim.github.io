@@ -1,4 +1,5 @@
 # gray-pilgrim.github.io
 issues resolved
-website deployed successfully\n
+website deployed successfully
+
 Click here to continue:
