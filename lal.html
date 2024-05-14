@@ -8,5 +8,25 @@
 </head>
 <body>
 	<h1>Hello World this is lal my first web page.Sorry couldn't do any better.</h1>
+	<p>Learned this today: 
+	#include <bits/stdc++.h>
+	using namespace std;
+	
+	int main(int argc, char *argv[])
+	{
+	    cout << "DKIIL" << endl;
+	    if (argv[1] != NULL)
+		cout << argv[1] << endl;
+	    cout << "Count of params: " << argc << endl;
+	    cout << "Enter a number:" << endl;
+	    int k;
+	    cin >> k;
+	    std::cout << "Hello World!" << k << std::endl;
+	    return 0;
+	}
+
+	In the above, if you enter anything before running along with spaces, it will be consumed by the char* argv[].
+	As a result even after entering multiple inputs in one line, the cin waits for input after pressing enter to run the program.
+	</p>
 </body>
 </html>
