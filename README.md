@@ -2,4 +2,4 @@
 issues resolved
 website deployed successfully
 
-Click [here](gray-pilgrim.github.io/main/lal.html) to continue:
+Click [here](lal.html) to continue:
