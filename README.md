@@ -2,4 +2,4 @@
 issues resolved
 website deployed successfully
 
-Click here to continue:
+Click [here](main/lal.html) to continue:
